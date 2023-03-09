@@ -9,6 +9,7 @@
 
 ## Interactive
 ![image](https://user-images.githubusercontent.com/81525850/224056036-9ac6bdd6-a14e-4f5c-9b13-ce90016a69d4.png)
+<h3> This is an interactive page where you can change the color using slider<h3/>
 
 ## Commanding
 ![image](https://user-images.githubusercontent.com/81525850/224056083-352893e2-b86a-4997-a4a3-70c10082d45d.png)
