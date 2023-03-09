@@ -18,6 +18,8 @@
 
 # BLAZER.APP
 
+![image](https://user-images.githubusercontent.com/81525850/224059406-bed38096-1fae-4b15-aba8-1f275699622f.png)
+
 ## adding component under counter
 ![image](https://user-images.githubusercontent.com/81525850/224056524-60a84fdf-9b07-4322-9a24-0d67a141bb62.png)
 
