@@ -5,16 +5,13 @@
 ![image](https://user-images.githubusercontent.com/81525850/224055938-36b2da41-ffa4-410b-a334-7f6bc3e3dfa6.png)
 <h4>This is a simple mvvm that used to show current date<h4/>
 
-## Clock
-![image](https://user-images.githubusercontent.com/81525850/224056001-0387a763-4922-477e-988a-ebed0a5a84c9.png)
-  <h4><h4/>
-
 ## Interactive
 ![image](https://user-images.githubusercontent.com/81525850/224056036-9ac6bdd6-a14e-4f5c-9b13-ce90016a69d4.png)
-<h3> This is an interactive page where you can change the color using slider<h3/>
+<h4> This is an interactive page where you can change the color using slider<h4/>
 
 ## Commanding
 ![image](https://user-images.githubusercontent.com/81525850/224056083-352893e2-b86a-4997-a4a3-70c10082d45d.png)
+  <h4>this page will show a keypad that allow databinding using buttons<h4/>
 
 ## Student Information
 ![image](https://user-images.githubusercontent.com/81525850/224056151-15651234-4d71-47b3-b03b-ef45bc0aa876.png)
